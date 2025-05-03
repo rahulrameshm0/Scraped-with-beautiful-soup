@@ -1,0 +1,3 @@
+COMPANY NAME: 3RI Technologies Pvt Ltd 
+REQUIRED SKILLS: python, Pandas, PyQt5, Matplotlib, Openpyxl 
+MORE INFO: https://www.timesjobs.com/job-detail/python-programmer-3ri-technologies-pvt-ltd-pune-0-to-1-yrs-jobid-RisAg8NKGbBzpSvf__PLUS__uAgZw==&source=srp
